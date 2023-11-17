@@ -1,0 +1,22 @@
+@import "icons.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.edit-add {
+    position: fixed;
+    bottom: 100px; /* Abstand vom unteren Rand anpassen */
+    right: 20px; /* Abstand vom rechten Rand anpassen */
+    /*background-color: #3b82f6; !* Hintergrundfarbe anpassen *!*/
+    /*color: white; !* Textfarbe anpassen *!*/
+    width: 48px; /* Breite anpassen */
+    height: 48px; /* Höhe anpassen */
+    /*border-radius: 50%; !* Runde Form *!*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+

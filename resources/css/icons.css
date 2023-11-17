@@ -1,0 +1,55 @@
+.i-fitness {
+    width: 40px;
+    height: 40px;
+    background-image: url("../../public/assets/icons/arm-flex.svg");
+    background-size: cover;
+}
+
+.i-book-edit {
+    width: 36px;
+    height: 36px;
+    background-image: url("../../public/assets/icons/book-edit.svg");
+    background-size: cover;
+}
+
+.i-calendar {
+    width: 36px;
+    height: 36px;
+    background-image: url("../../public/assets/icons/calendar.svg");
+    background-size: cover;
+}
+
+.i-account {
+    width: 40px;
+    height: 40px;
+    background-image: url("../../public/assets/icons/account.svg");
+    background-size: cover;
+}
+
+.i-plus {
+    width: 40px;
+    height: 40px;
+    background-image: url("../../public/assets/icons/plus.svg");
+    background-size: cover;
+}
+
+.i-plus-sm {
+    width: 30px;
+    height: 30px;
+    background-image: url("../../public/assets/icons/plus.svg");
+    background-size: cover;
+}
+
+.i-edit {
+    width: 30px;
+    height: 30px;
+    background-image: url("../../public/assets/icons/edit.svg");
+    background-size: cover;
+}
+
+.i-back {
+    width: 35px;
+    height: 35px;
+    background-image: url("../../public/assets/icons/back.svg");
+    background-size: cover;
+}
